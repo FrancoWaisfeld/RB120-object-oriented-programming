@@ -1,6 +1,6 @@
 # Launch School Course RB120 Object Oriented Programming
 
-This repository contains practice exercises from Launch School's RB120 course.
+This repository contains practice exercises and projects from Launch School's RB120 course.
 
 ## What I Learned in This Course
 
